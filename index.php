@@ -54,7 +54,7 @@ WIDTH="192" HEIGHT="190" ShowControls="1" ShowStatusBar="0" ShowDisplay="0" auto
 
 <?php
 
-echo 'kklkfk
+echo 'kklkfkddf
 fhjdjfjdjf
 fjjjfjf'; exit;
 echo date('H:i:s d-m-Y',strtotime('2014-11-11 7:23:00')); exit;
